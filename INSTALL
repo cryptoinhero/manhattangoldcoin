@@ -1,0 +1,9 @@
+Building Manhattangoldcoin
+
+See doc/readme-qt.rst for instructions on building Manhattangoldcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Manhattangoldcoin.
+
+See doc/build-*.txt for instructions on building manhattangoldcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Manhattangoldcoin.
